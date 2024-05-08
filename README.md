@@ -4,8 +4,7 @@ Meu nome é Érika de Castro
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-![https://www.sheepfilms.co.uk/morestuff?pgid=kdn5g6s9-a33d5946-06ef-497d-bdee-37f6149de14c
-](link)
+![](https://www.sheepfilms.co.uk/morestuff?pgid=kdn5g6s9-a33d5946-06ef-497d-bdee-37f6149de14c)
 
 
 
