@@ -1,8 +1,17 @@
 ### Hi there 👋
+Meu nome é Érika de Castro 
 
-<!--
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![https://www.sheepfilms.co.uk/morestuff?pgid=kdn5g6s9-a33d5946-06ef-497d-bdee-37f6149de14c
+](link)
+
+
+
+
 **erikinhalash/erikinhalash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
